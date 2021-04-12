@@ -1,2 +1,2 @@
-# Grundlagen-der-Videotechnik-GVT-
+# Grundlagen-der-Videotechnik-GVT
 TU Ilmenau- Master Course GVT Seminars
